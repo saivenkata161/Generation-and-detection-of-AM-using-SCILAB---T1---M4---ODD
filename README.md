@@ -84,15 +84,18 @@ Compare the original modulating signal with the demodulated signal.
 
 # TABULATION
 
-   
-   <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f0948126-4c97-4882-ae32-d46429cb366e" />
+   <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7b69e3c3-e386-4893-b1e5-f2b5ad00bbed" />
+
+
 
 # GRAPH:
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f80b9b72-fb1c-4d98-adbd-d04c24a14b98" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/5c4bf032-c1be-4b7e-88b7-90bb83b42c5b" />
+
 
 
 # CALCULATION
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c9cb7a85-1b04-4542-9342-2a5f0bb285d7" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/541b3ab7-feec-4df1-a8f5-fc6171213680" />
+
 
 
 RESULT: Thus the amplitude modulation and demodulation is experimentally done and the output is verified. 
